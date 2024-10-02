@@ -1,0 +1,18 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "Its a great package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshat",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^18.2.6",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
